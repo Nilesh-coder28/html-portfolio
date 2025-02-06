@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div style="width: 850px; height: 1100px; border: 1px solid #ffa500; margin: 0 auto;">
+  <div style="width: 830px; height: 100px; border: 1px solid#ff0000; text-align: center;margin: 10px 10px 0 10px;"><div style="margin-top: 50px; font-size: 24px;"><b> COURSES AVAILABLE</b></div>
+    <div style="width: 80px; height: 80px; border: 1px solid#ff0000; margin: -70px 0 0 10px;"><img src="images/logo.jpg" alt="Girl in a jacket" width="80" height="80">
+  </div>
+  <div style="margin:55px;">
+      <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left; text-align: center; margin:10px;"> commercial model<img src="d:\xampp\htdocs\nilesh\images\medium-shot-artistic-man-stage.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+      <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left; text-align: center;margin:10px;"> fitness model <img src="d:\xampp\htdocs\nilesh\images\handsome-man-street-shoot-long-shot.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+      <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left; text-align: center;margin:10px;"> fashion model <img src="d:\xampp\htdocs\nilesh\images\front-view-brutal-male-model-sunglasses-holding-stylish-jacket-hands-standing-isolated-studio-with-red-light-showing-collection-designer-apparel.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+      <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left;text-align: center; margin:10px;"> nuteral model <img src="c:\Users\nilra\Downloads\full-shot-man-posing-outdoors.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+</div>
+
+<div style="margin:55px;">
+  <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left;text-align: center; margin:10px;"> ad model <img src="d:\xampp\htdocs\nilesh\images\portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-black-suit.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+  <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left; text-align: center;margin:10px;">runway model<img src="images/portrait-man-wearing-lavender-colored-fashion-garments-color-year.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+  <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left;text-align: center; margin:10px;">promotional model<img src="d:\xampp\htdocs\nilesh\images\young-man-posing-inside-full-shot.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+  <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left;text-align: center;margin:10px;">asctetic model <img src="d:\xampp\htdocs\nilesh\images\medium-shot-man-standing-stage.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+</div>
+</div>
+<div style="margin:65px;">
+  <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left; text-align: center;margin:10px;">parts model<img src="d:\xampp\htdocs\nilesh\images\model-man-posing-with-coat.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+  <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left;text-align: center; margin:10px;">high fashion model<img src="d:\xampp\htdocs\nilesh\images\young-man-street-with-one-hand-his-pocket.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+  <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left; text-align: center;margin:10px;">formal model<img src="d:\xampp\htdocs\nilesh\images\portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-black-suit (1).jpg" alt="Girl in a jacket" width="200" height="200"></div>
+  <div style="width: 200px; height: 200px; border: 1px solid#3cb371; float: left;text-align: center; margin:10px;">desiner's own model<img src="c:\Users\nilra\Downloads\portrait-young-man-yellow-scene.jpg" alt="Girl in a jacket" width="200" height="200"></div>
+</div>
+</div>      
+     
+</div>
+</body>
+</html>
